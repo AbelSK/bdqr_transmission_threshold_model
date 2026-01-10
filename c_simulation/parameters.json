@@ -1,0 +1,12 @@
+{
+    "lambda" : 1,
+    "mu" : 0.9432628,
+    "lambda1" : 1,
+    "mu1" : 0.9432628,
+    "beta" : 5e-7,
+    "Nf" : 1.1e10, 
+    "threshold" : 1000,
+    "max_steps" : 600,
+    "sims" : 200000,
+    "test" : 0
+}
