@@ -41,6 +41,7 @@ calc_threshold <- function(
       N = df[[N_col]],
       Tr = df[[Tr_col]],
       pa_factor = pa_factor,
+      ps_factor = ps_factor,
       prev_factor = prev_factor,
       n_sims = n_sims
     ),
